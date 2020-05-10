@@ -17,7 +17,7 @@
 * Inicio - 3 Beneficios de la empresa 
 * Inicio - 3 Agentes de venta con foto y pequeña reseña (?)
 * Inicio - 2 Testimonio, foto e historia
-
+* Titulos de paginas 
 
 * Chatbox - Watson IBM
 
