@@ -2314,8 +2314,14 @@
   content: "\f2de";
 }
 .fa-meetup:before {
-  content: "\f2e0";
+  content: "\f7d9";
 }
+
+.fa-tools:before {
+  content: "\f7d9";
+}
+
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -2335,3 +2341,4 @@
   overflow: visible;
   clip: auto;
 }
+

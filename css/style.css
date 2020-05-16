@@ -292,7 +292,7 @@ a:hover {
   position: absolute;
   width: 70px;
   height: 4px;
-  background-color: #2eca6a;
+  background-color: #00909e;
   bottom: 20px;
   left: 0;
 }
@@ -481,7 +481,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #2eca6a;
+  border-top: 6px solid dodgerblue;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -632,7 +632,7 @@ a:hover {
 }
 
 .navbar-default.navbar-reduce .nav-link:before {
-  background-color: #2eca6a;
+  background-color: #00909e;
 }
 
 .navbar-default.navbar-reduce .nav-link:hover {
@@ -877,11 +877,11 @@ a:hover {
 }
 
 .intro .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #2eca6a;
+  background-color: #035aa6;
 }
 
 .intro .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #2eca6a;
+  background-color: #035aa6;
 }
 
 .intro .intro-item {
@@ -908,7 +908,7 @@ a:hover {
 .intro .intro-body .price-a {
   color: #ffffff;
   padding: 1rem 1.5rem;
-  border: 2px solid #2eca6a;
+  border: 2px solid #ffffff;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1060,7 +1060,7 @@ a:hover {
 .price-a {
   color: #ffffff;
   padding: .6rem .8rem;
-  border: 2px solid #2eca6a;
+  border: 2px solid dodgerblue;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1070,7 +1070,7 @@ a:hover {
   width: 100%;
   position: absolute;
   z-index: 2;
-  background-color: #2eca6a;
+  background-color: dodgerblue;
 }
 
 .card-info {
@@ -1305,7 +1305,7 @@ a:hover {
 
 .card-box-ico {
   padding: 1rem 3rem 1rem 2.5rem;
-  border: 5px solid #2eca6a;
+  border: 5px solid #00909e;
 }
 
 .card-box-ico span {
@@ -1366,8 +1366,8 @@ a:hover {
 }
 
 .card-box-d:hover .card-overlay-hover {
-  background-color: #2eca6a;
-  opacity: .9;
+  background-color: deepskyblue;
+  opacity: .8;
 }
 
 .card-box-d:hover .title-d,
@@ -1412,7 +1412,7 @@ a:hover {
 }
 
 .sinse-box {
-  background-color: #2eca6a;
+  background-color: #035aa6;
   padding: 1rem 2rem;
   position: absolute;
   left: 15px;
@@ -1466,7 +1466,7 @@ a:hover {
 
 .testimonial-ico span {
   font-size: 1.8rem;
-  background-color: #2eca6a;
+  background-color: black;
   color: #ffffff;
   padding: .4rem 1rem;
   border-radius: 50px;
@@ -2023,3 +2023,4 @@ footer .credits {
     font-size: 1.3rem;
   }
 }
+
