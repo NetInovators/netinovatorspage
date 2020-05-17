@@ -1,5 +1,5 @@
 * Revisen la ortografia
-* Footer - añadir imagen de la empresa ? 
+* [/] Footer - añadir imagen de la empresa ? 
 * [x] Footer - Historia corta de la empresa o reseña
 * [x] Footer - Business partners con links
 * [x] Footer - Redes sociales 
@@ -17,14 +17,13 @@
 * [x] Inicio - 3 Beneficios de la empresa 
 * [x] Inicio - 3 Agentes de venta con foto y pequeña reseña (?)
 * [x] Inicio - 2 Testimonio, foto e historia
-* Titulos de paginas 
+* [x] Titulos de paginas 
 * [X] Color de subrayado en header
 
 
 * Contacto - Reseña para contacto
 * Blog - 6 Noticias y/o videos //propio o de terceros
 * Foto propia para pantalla nosotros
-* Icono en beneficios
 
 * Imagenes mismo porte 
 
