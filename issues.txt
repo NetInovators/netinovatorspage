@@ -4,11 +4,11 @@
 * [x] Footer - Business partners con links
 * [x] Footer - Redes sociales 
 * [x] Contacto - centrar condenadas
-* Contacto - Reseña para contacto
+* [x] Contacto - Reseña para contacto
 * Blog - 6 Noticias y/o videos //propio o de terceros
-* Producto - Video e imagenes del producto
-* Producto - Caracteristicas y reseña
-* Producto - Precio 
+* [x] Producto - Video e imagenes del producto
+* [x] Producto - Caracteristicas y reseña
+* [x] Producto - Precio 
 * [x] Nosotros - Historia
 * [x] Nosotros - Lemas 
 * [x] Nosotros - Fotos del equipo y pequeña reseña y redes sociales
@@ -20,18 +20,3 @@
 * [x] Titulos de paginas 
 * [X] Color de subrayado en header
 
-
-* Contacto - Reseña para contacto
-* Blog - 6 Noticias y/o videos //propio o de terceros
-* Foto propia para pantalla nosotros
-
-* Imagenes mismo porte 
-
-* Chatbox - Watson IBM
-
-
-[] Inicio 
-[o] Nosotros
-[] Productos
-[] Blog
-[o] Contacto

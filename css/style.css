@@ -359,11 +359,11 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #2eca6a;
+  background-color: #035aa6;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #2eca6a;
+  background-color: #035aa6;
   width: 35px;
 }
 
@@ -1167,7 +1167,7 @@ a:hover {
 
 .card-header-b .category-b {
   font-size: .9rem;
-  background-color: #2eca6a;
+  background-color: #4ba4f1;
   padding: .3rem .7rem;
   color: #313131;
   letter-spacing: 0.030em;
